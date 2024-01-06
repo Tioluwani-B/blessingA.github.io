@@ -1,0 +1,41 @@
+/* Header */
+body,h1,h3 {
+font-family: "Raleway", Arial, sans-serif;
+padding-left: 40px;
+}
+
+.box{
+    width: 500px;
+    height: 700px;
+    border-width: 5px;
+    border-color: aqua;
+}
+
+
+h1 {
+letter-spacing: 6px
+}
+
+.w3-row-padding img {
+margin-bottom: 12px
+}
+
+
+
+header{
+    padding:128px 16px;
+}
+
+
+.w3-content{
+    display: flex;
+    column-gap: 15px;
+    flex-direction: column;
+    justify-content: center;
+    max-width:1500px; 
+    min-height: 600px;
+}
+footer{
+    align-items: flex-end;
+}
+
